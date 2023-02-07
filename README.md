@@ -11,5 +11,4 @@ This is my 2nd beginner JAVA project I decided to create improve my skills with 
 
 ### Credits
 [Stack**overflow**](https://stackoverflow.com)
-
 [Oracle Swing Doc](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
