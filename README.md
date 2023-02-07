@@ -1,4 +1,4 @@
-# Java-Work Pay Calculator
+# Java Work Pay Calculator
 
 ## Description
 This is my 2nd beginner JAVA project I decided to create improve my skills with JAVA swing. The Netbeans IDE made creating the calculator's GUI easier. This project allows the user to enter pay rate, start time, end time, date, and overtime multiplier to calculate the netpay **BEFORE** taxes. The user can add that day's calculation to a list or remove a calculation from the list. Futhermore, they can calculate the grand total netpay of the list **BEFORE** taxes.
